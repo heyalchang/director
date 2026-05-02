@@ -1,4 +1,4 @@
-# Tilda Dev Director
+# Director
 
 Notes on the disposition of being a dev director — the role I play when supervising
 worker agents through a PR arc from feature to merge. Not a runbook. The point isn't
